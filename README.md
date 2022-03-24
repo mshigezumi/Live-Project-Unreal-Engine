@@ -32,5 +32,5 @@ Here is an image of the event graph for the blueprint of the gargoyle statue, th
 
 ![BP_Skeleton](https://user-images.githubusercontent.com/71560004/159950758-0d669eba-075a-4531-8592-a1c8b6d722b6.png)
 ![BP_Alter](https://user-images.githubusercontent.com/71560004/159950744-dd75eabc-c102-480e-be55-67a46eb6387d.png)
-![BP_Cell_Door1](https://user-images.githubusercontent.com/71560004/159950751-5646ebf9-c644-422e-bcf8-528ee9c7c2af.png)
 ![BP_Trapdoor](https://user-images.githubusercontent.com/71560004/159950753-199c3cfe-3a32-4158-8abc-bfac30071524.png)
+![BP_Cell_Door1](https://user-images.githubusercontent.com/71560004/159950751-5646ebf9-c644-422e-bcf8-528ee9c7c2af.png)
