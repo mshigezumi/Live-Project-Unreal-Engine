@@ -25,3 +25,12 @@ By the time I got to this story I was reaching the end of the two weeks so I add
 
 ### Modifying, Testing, Refactoring, Iterating:
 This final story I was able to do quite quickly since while creating the level I was being very meticulous with everything I worked on, so almost everything was already in a satisfactory state, being tested, already refactored multiple times, and improved on when I first worked on them. There were a few smaller things that I changed like how some props rotated, and the initial placement of some of the puzzle pieces, I also updated a couple of the earlier visual scripts with the knowledge I gained while working through the blueprints.
+
+## Images:
+![BP_Gargoyle_Statue](https://user-images.githubusercontent.com/71560004/159940396-73789b64-594b-4a74-a4c2-0d4d048600b7.png)
+Here is an image of the event graph for the blueprint of the gargoyle statue, the main interactable for the first set of puzzles.
+
+![BP_Skeleton](https://user-images.githubusercontent.com/71560004/159950758-0d669eba-075a-4531-8592-a1c8b6d722b6.png)
+![BP_Alter](https://user-images.githubusercontent.com/71560004/159950744-dd75eabc-c102-480e-be55-67a46eb6387d.png)
+![BP_Cell_Door1](https://user-images.githubusercontent.com/71560004/159950751-5646ebf9-c644-422e-bcf8-528ee9c7c2af.png)
+![BP_Trapdoor](https://user-images.githubusercontent.com/71560004/159950753-199c3cfe-3a32-4158-8abc-bfac30071524.png)
